@@ -97,6 +97,7 @@ public class Trader {
                 new Horse(),
                 new Horse(),
                 new Horse(),
+                new SchoolAppropriateWords()
                 new Rat(),
                 new Rat(),
                 new Rat(),
@@ -127,7 +128,7 @@ public class Trader {
                 new Rat(),
                 new Rat(),
                 new Rat(),
-                new Rat(),
+                new Rat()
         );
 
         /* Below, we've created two Traders. Their money, inventory, and
