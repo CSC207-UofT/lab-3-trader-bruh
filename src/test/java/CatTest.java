@@ -12,7 +12,7 @@ public class CatTest {
 
     @Test(timeout = 50)
     public void TestSound() {
-        assertEquals("https://www.youtube.com/watch?v=ngWYG3I_cTQ!", c.sound());
+        assertEquals("https://www.youtube.com/watch?v=ngWYG3I_cTQ", c.sound());
     }
 
     @Test(timeout = 50)
