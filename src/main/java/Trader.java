@@ -127,8 +127,7 @@ public class Trader {
                 new Rat(),
                 new Rat(),
                 new Rat(),
-                new Rat()
-
+                new Rat(),
         );
 
         /* Below, we've created two Traders. Their money, inventory, and
