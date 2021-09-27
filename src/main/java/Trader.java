@@ -94,10 +94,17 @@ public class Trader {
          * (or multiple instances of it) to the all_items list below.
          */
         List<Tradable> all_items = Arrays.asList(
+                new Airplane(),
                 new Horse(),
                 new Horse(),
                 new Horse(),
-                new SchoolAppropriateWords()
+                new Bat(),
+                new Bat(),
+                new Bat(),
+                new Cat(),
+                new Cat(),
+                new Cat(),
+                new SchoolAppropriateWords(),
                 new Rat(),
                 new Rat(),
                 new Rat(),
